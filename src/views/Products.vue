@@ -1,6 +1,5 @@
 <template>
-    <div>
-        <HeaderComponent></HeaderComponent>
+    <HeaderComponent></HeaderComponent>
 
 
         <div class="small-container">
@@ -29,7 +28,6 @@
         </div>
 
         <FooterComponent></FooterComponent>
-    </div>
 </template>
   
 
